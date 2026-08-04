@@ -1,6 +1,6 @@
 # Postgres
 
-Docker Compose setup for PostgreSQL 18.3.
+Docker Compose setup for PostgreSQL 18.
 
 ## Usage
 
